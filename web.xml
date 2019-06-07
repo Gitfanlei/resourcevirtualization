@@ -1,0 +1,11 @@
+
+<servlet>
+    <description></description>
+    <display-name>GetLoginRequest</display-name>
+    <servlet-name>GetLoginRequest</servlet-name>
+    <servlet-class>com.servletSolveForm.servlets.GetLoginRequest</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>GetLoginRequest</servlet-name>
+<url-pattern>/getlogin</url-pattern>
+</servlet-mapping>
